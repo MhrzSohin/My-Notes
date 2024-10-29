@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864384416013",
+    "project_id": "simple-notes-application-c10d3",
+    "storage_bucket": "simple-notes-application-c10d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864384416013:android:694edff70defb287149844",
+        "android_client_info": {
+          "package_name": "edu.udemylearning.simplenotesapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1yBssetNv2RppcZjVQG96-JNp4u9Pxxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
